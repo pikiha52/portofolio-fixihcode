@@ -15,7 +15,7 @@
           </router-link>
           </div>
         </div>
-        <img alt="Vue logo" src="../assets/home.png" class="phone:hidden md:px-36" />
+        <img alt="Banner" src="../assets/home.png" class="phone:hidden md:px-36" />
       </div>
     </div>
   </div>

@@ -16,4 +16,17 @@
 </template>
 
 
+<script>
+export default {
+  head: {
+    link: [
+      {
+        rel: "icon",
+        href: require("./assets/home.png"),
+      },
+    ],
+  },
+};
+</script>
+
 
