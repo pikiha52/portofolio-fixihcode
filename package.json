@@ -11,6 +11,7 @@
     "axios": "^0.26.0",
     "core-js": "^3.8.3",
     "express": "*",
+    "lightgallery": "^2.6.0",
     "swiper": "^8.1.4",
     "vue": "^3.2.13",
     "vue-ionicons": "^3.0.5",
