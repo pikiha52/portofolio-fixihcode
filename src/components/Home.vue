@@ -190,7 +190,7 @@
         Associate Degree Information Systems graduate, with experience as a
         Backend Developer, mastering the programming languages ​​Php,
         Javascript, Dart, and Mastering Laravel Framework, Codeigniter, Flutter,
-        Tailwind CSS.
+        Tailwind CSS, Vue Js, Xpress Js, Docker.
       </p>
       <!-- job -->
       <p class="text-white font-bold sm:text-4xl pt-10">Experience Job</p>
