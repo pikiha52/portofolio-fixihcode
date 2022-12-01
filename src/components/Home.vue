@@ -24,7 +24,7 @@
 
     <section class="grid justify-center mb-10">
       <div class="max-w-2xl text-center grid gap-5">
-        <p class="sm:text-6xl font-extrabold font-sans">Fullstack Developer</p>
+        <p class="sm:text-6xl font-extrabold font-sans">Backend Developer</p>
         <p class="sm:text-6xl font-normal">
           Based on <span class="font-extrabold">Indonesia</span>
         </p>
@@ -33,7 +33,7 @@
             Associate Degree Information Systems graduate, with experience as a
             Backend Developer, mastering the programming languages ​​Php,
             Javascript, Dart, and Mastering Laravel Framework, Codeigniter,
-            Flutter, Tailwind CSS.
+            Flutter, Tailwind CSS, Vue Js, Xpress Js, Docker.
           </p>
         </div>
       </div>
@@ -192,8 +192,21 @@
         Javascript, Dart, and Mastering Laravel Framework, Codeigniter, Flutter,
         Tailwind CSS.
       </p>
+      <!-- job -->
       <p class="text-white font-bold sm:text-4xl pt-10">Experience Job</p>
       <div class="grid grid-cols-2 gap-4">
+        <div class="flex gap-5">
+          <p class="text-blue-500 font-bold">2022</p>
+          <div class="grid">
+            <p class="text-white">Backend Developer</p>
+            <p class="text-gray-300 opacity-70">
+              Wetalk, Jakarta Selatan
+            </p>
+            <p class="text-gray-300 opacity-70">
+              Build new chat bot or update existing bot for platform whatsapp, telegram, instagram, facebook messager, line.
+            </p>
+          </div>
+        </div>
         <div class="flex gap-5">
           <p class="text-blue-500 font-bold">2021</p>
           <div class="grid">
@@ -223,15 +236,57 @@
           </div>
         </div>
       </div>
+
+      <!-- project -->
       <p class="text-white font-bold sm:text-4xl pt-10">Experience Projects</p>
       <div class="grid grid-cols-2 gap-4">
         <div class="flex gap-5">
           <p class="text-blue-500 font-bold">2022</p>
           <div class="grid">
             <p class="text-white">Laravel</p>
+            <p class="text-gray-300 opacity-70">Booking - PT Nose Herbalindo</p>
+            <p class="text-gray-300 opacity-70">
+              Build a web applications for Booking meeting rooms and bookings vehicle operational for PT Nose Herbalindo, <a class="text-blue-500 font-bold hover:text-blue-100" href="http://booking.nose.co.id/">Click me for look this websites.</a>.
+            </p>
+          </div>
+        </div>
+        <div class="flex gap-5">
+          <p class="text-blue-500 font-bold">2022</p>
+          <div class="grid">
+            <p class="text-white">Laravel</p>
+            <p class="text-gray-300 opacity-70">Recruitment - PT Nose Herbalindo</p>
+            <p class="text-gray-300 opacity-70">
+              Build a web applications for Recruitment for PT Nose Herbalindo, <a class="text-blue-500 font-bold hover:text-blue-100" href="https://recruitment.nose.co.id/office">Click me for look this websites.</a>.
+            </p>
+          </div>
+        </div>
+        <div class="flex gap-5">
+          <p class="text-blue-500 font-bold">2022</p>
+          <div class="grid">
+            <p class="text-white">Laravel</p>
+            <p class="text-gray-300 opacity-70">Point of sale - Cashier</p>
+            <p class="text-gray-300 opacity-70">
+              Build a web applications cashier for PT Nose Herbalindo for events outside the office (not publish).
+            </p>
+          </div>
+        </div>
+        <div class="flex gap-5">
+          <p class="text-blue-500 font-bold">2022</p>
+          <div class="grid">
+            <p class="text-white">Flutter</p>
+            <p class="text-gray-300 opacity-70">Point of sale - Cashier</p>
+            <p class="text-gray-300 opacity-70">
+              Build a mobile cashier application for PT Nose Herbalindo for events outside the office (not publish).
+            </p>
+          </div>
+        </div>
+        <div class="flex gap-5">
+          <p class="text-blue-500 font-bold">2022</p>
+          <div class="grid">
+            <p class="text-white">Laravel</p>
             <p class="text-gray-300 opacity-70">Company Profile - House Boss</p>
             <p class="text-gray-300 opacity-70">
-              Build web company profile use laravel and tailwind css.
+              Build web company profile use laravel and tailwind css, <a class="text-blue-500 font-bold hover:text-blue-100" href="https://kosbosshouse.com">Click me for look this websites.</a>.
             </p>
           </div>
         </div>
@@ -241,7 +296,7 @@
             <p class="text-white">Laravel</p>
             <p class="text-gray-300 opacity-70">Codebooks</p>
             <p class="text-gray-300 opacity-70">
-              Build web applications for buy books or buy course programming.
+              Build web applications for buy books or buy course programming, <a class="text-blue-500 font-bold hover:text-blue-100" href="https://codebook.id">Click me for look this websites.</a>.
             </p>
           </div>
         </div>
@@ -262,7 +317,7 @@
             <p class="text-gray-300 opacity-70">Manajement Coffeshop</p>
             <p class="text-gray-300 opacity-70">
               Build web application for manajement coffeshop, there are several
-              features absensi, point of sale, payroll.
+              features absensi, point of sale, payroll (not publish).
             </p>
           </div>
         </div>
