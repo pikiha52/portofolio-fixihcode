@@ -20,11 +20,11 @@
             Fikih Alan
           </p>
           <p class="font-extrabold font-poppins text-yellow-500 text-sm mb-2">
-            Full Stack Developer
+            Backend Developer
           </p>
           <p class="font-semibold font-poppins text-gray-600 text-sm">
             Hello, my name Fikih Alan people used to call me Pikih or Kih, I'am
-            a Full Stack Developer, i can use Framework Laravel, Codeigniter,
+            a Backend Developer, i can use Framework Laravel, Codeigniter, Express Js, Golang, 
             Flutter, Tailwindcss. I really like the new thing about programming.
             For more information, visit
             <a href="https://github.com/pikiha52" class="text-yellow-500"
@@ -77,11 +77,11 @@
         >
           <p class="font-extrabold font-poppins text-gray-700">Fikih Alan</p>
           <p class="font-extrabold font-poppins text-cyan-500 text-xs mb-2">
-            Full Stack Developer
+            Backend Developer
           </p>
           <p class="font-semibold font-poppins text-gray-600 text-xs">
             Hello, my name Fikih Alan people used to call me Pikih or Kih, I'am
-            a Full Stack Developer, i can use Framework Laravel, Codeigniter,
+            a Backend Developer, i can use Framework Laravel, Codeigniter,
             Flutter, Tailwindcss. I really like the new thing about programming.
             For more information, visit
             <a href="https://github.com/pikiha52" class="text-yellow-500"
@@ -105,6 +105,21 @@
             Project Experince
           </p>
           <ul class="list-disc">
+            <li>
+              <p class="font-poppins font-normal text-gray-600 text-xs">
+                Api for use consume chatbots on whatapp
+              </p>
+            </li>
+            <li>
+              <p class="font-poppins font-normal text-gray-600 text-xs">
+                Website bookings meeting rooms
+              </p>
+            </li>
+            <li>
+              <p class="font-poppins font-normal text-gray-600 text-xs">
+                Module HR Management in WebApp Erp internal office
+              </p>
+            </li>
             <li>
               <p class="font-poppins font-normal text-gray-600 text-xs">
                 Website Recruitment
@@ -155,10 +170,18 @@
           <ul class="list-disc">
             <li>
               <p class="text-xs font-normal font-poppins text-gray-600">
+                Backend Developer at Wetalk.id
+              </p>
+              <p class="text-xs font-normal font-poppins text-gray-400">
+                Oct, 2022 - Today
+              </p>
+            </li>
+            <li>
+              <p class="text-xs font-normal font-poppins text-gray-600">
                 Laravel Developer at PT Nose Herbalindo
               </p>
               <p class="text-xs font-normal font-poppins text-gray-400">
-                Desc, 2021 - Today
+                Desc, 2021 - Oct, 2022
               </p>
             </li>
             <li>

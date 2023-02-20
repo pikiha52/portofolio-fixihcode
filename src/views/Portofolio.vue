@@ -88,7 +88,7 @@ export default {
       {
         id: "2",
         size: "1400-933",
-        title: "Compant Profile",
+        title: "Company Profile",
         src: "https://drive.google.com/uc?id=1fLoK5ql53itTxMmj1HnE2xQXk6_v4U6m",
         thumb:
           "https://drive.google.com/uc?id=1fLoK5ql53itTxMmj1HnE2xQXk6_v4U6m",
