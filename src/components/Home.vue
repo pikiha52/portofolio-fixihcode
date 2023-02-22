@@ -40,7 +40,7 @@
     </section>
   </div>
 
-  <section class="w-screen bg-blue-200 py-4 flex gap-10 justify-center">
+  <section class="w-screen bg-blue-200 py-4 sm:flex hidden gap-10 justify-center">
     <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
       <img
         src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"
@@ -194,7 +194,7 @@
       </p>
       <!-- job -->
       <p class="text-white font-bold sm:text-4xl pt-10">Experience Job</p>
-      <div class="grid grid-cols-2 gap-4">
+      <div class="grid md:grid-cols-2 gap-4">
         <div class="flex gap-5">
           <p class="text-blue-500 font-bold">2022</p>
           <div class="grid">
@@ -239,7 +239,7 @@
 
       <!-- project -->
       <p class="text-white font-bold sm:text-4xl pt-10">Experience Projects</p>
-      <div class="grid grid-cols-2 gap-4">
+      <div class="grid md:grid-cols-2 gap-4">
         <div class="flex gap-5">
           <p class="text-blue-500 font-bold">2022</p>
           <div class="grid">
