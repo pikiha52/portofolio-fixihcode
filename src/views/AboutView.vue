@@ -173,7 +173,7 @@
                 Backend Developer at Wetalk.id
               </p>
               <p class="text-xs font-normal font-poppins text-gray-400">
-                Oct, 2022 - Today
+                Oct, 2022 - May 2023
               </p>
             </li>
             <li>
