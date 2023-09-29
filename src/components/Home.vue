@@ -149,6 +149,14 @@
         height="40"
       />
     </a>
+    <a href="http://golang.org" target="_blank" rel="noreferrer">
+      <img
+        src="https://icongr.am/devicon/go-original.svg?size=128&color=currentColor"
+        alt="golang"
+        width="40"
+        height="40"
+      />
+    </a>
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
@@ -196,11 +204,23 @@
       <p class="text-white font-bold sm:text-4xl pt-10">Experience Job</p>
       <div class="grid md:grid-cols-2 gap-4">
         <div class="flex gap-5">
+          <p class="text-blue-500 font-bold">2023</p>
+          <div class="grid">
+            <p class="text-white">Backend Developer</p>
+            <p class="text-gray-300 opacity-70">
+              Dipay, South Jakarta
+            </p>
+            <p class="text-gray-300 opacity-70">
+              Creating and implementing additional features for an already improved product.
+            </p>
+          </div>
+        </div>
+        <div class="flex gap-5">
           <p class="text-blue-500 font-bold">2022</p>
           <div class="grid">
             <p class="text-white">Backend Developer</p>
             <p class="text-gray-300 opacity-70">
-              Wetalk, Jakarta Selatan
+              Wetalk, South Jakarta
             </p>
             <p class="text-gray-300 opacity-70">
               Build new chat bot or update existing bot for platform whatsapp, telegram, instagram, facebook messager, line.
@@ -212,7 +232,7 @@
           <div class="grid">
             <p class="text-white">Laravel Developer</p>
             <p class="text-gray-300 opacity-70">
-              PT Nose Herbal Indo, Jakarta Utara
+              PT Nose Herbal Indo, North Jakarta
             </p>
             <p class="text-gray-300 opacity-70">
               Build new web application or update module on existing web
@@ -226,7 +246,7 @@
           <p class="text-blue-500 font-bold">2021</p>
           <div class="grid">
             <p class="text-white">Backend Developer</p>
-            <p class="text-gray-300 opacity-70">PT Run 8, Depok - Jawa Barat</p>
+            <p class="text-gray-300 opacity-70">PT Run 8, Depok - West Java</p>
             <p class="text-gray-300 opacity-70">
               Build api for mobile apps and web application admin form mobile
               apps parking, for example, i build api for register account,
