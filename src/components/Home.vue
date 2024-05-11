@@ -3,16 +3,7 @@
     <section class="flex justify-center py-2 gap-2">
       <div class="sm:flex sm:relative">
         <div
-          class="
-            rounded-l-full
-            sm:absolute sm:-left-24 sm:-top-16
-            rounded-tr-full
-            bg-blue-200
-            w-20
-            px-2
-            pt-4
-            mb-2
-          "
+          class="rounded-l-full sm:absolute sm:-left-24 sm:-top-16 rounded-tr-full bg-blue-200 w-20 px-2 pt-4 mb-2"
         >
           <img src="../assets/my-profile.png" alt="" />
         </div>
@@ -40,156 +31,7 @@
     </section>
   </div>
 
-  <section class="w-screen bg-blue-200 py-4 sm:flex hidden gap-10 justify-center">
-    <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"
-        alt="codeigniter"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        alt="css3"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://dart.dev" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
-        alt="dart"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-        alt="docker"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-        alt="express"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-        alt="figma"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-        alt="flutter"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-        alt="git"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="html5"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-        alt="laravel"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-        alt="mysql"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-        alt="nodejs"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="http://golang.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://icongr.am/devicon/go-original.svg?size=128&color=currentColor"
-        alt="golang"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-        alt="php"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-        alt="postman"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-        alt="tailwind"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-        alt="vuejs"
-        width="40"
-        height="40"
-      />
-    </a>
-  </section>
+  <ToolsComponent />
 
   <section class="bg-black w-screen">
     <div class="px-10 py-10 grid gap-8">
@@ -203,55 +45,13 @@
       <!-- job -->
       <p class="text-white font-bold sm:text-4xl pt-10">Experience Job</p>
       <div class="grid md:grid-cols-2 gap-4">
-        <div class="flex gap-5">
-          <p class="text-blue-500 font-bold">2023</p>
+        <div v-for="item in experiencesJob" class="flex gap-5">
+          <p class="text-blue-500 font-bold">{{ item.years }}</p>
           <div class="grid">
-            <p class="text-white">Backend Developer</p>
+            <p class="text-white">{{ item.title }}</p>
+            <p class="text-gray-300 opacity-70">{{ item.company }}</p>
             <p class="text-gray-300 opacity-70">
-              Dipay, South Jakarta
-            </p>
-            <p class="text-gray-300 opacity-70">
-              Creating and implementing additional features for an already improved product.
-            </p>
-          </div>
-        </div>
-        <div class="flex gap-5">
-          <p class="text-blue-500 font-bold">2022</p>
-          <div class="grid">
-            <p class="text-white">Backend Developer</p>
-            <p class="text-gray-300 opacity-70">
-              Wetalk, South Jakarta
-            </p>
-            <p class="text-gray-300 opacity-70">
-              Build new chat bot or update existing bot for platform whatsapp, telegram, instagram, facebook messager, line.
-            </p>
-          </div>
-        </div>
-        <div class="flex gap-5">
-          <p class="text-blue-500 font-bold">2021</p>
-          <div class="grid">
-            <p class="text-white">Laravel Developer</p>
-            <p class="text-gray-300 opacity-70">
-              PT Nose Herbal Indo, North Jakarta
-            </p>
-            <p class="text-gray-300 opacity-70">
-              Build new web application or update module on existing web
-              application on erp company, for example, i build web application
-              for booking meeting rooms and operational vehicle, and i build
-              anti-fake system for checking original product or fake.
-            </p>
-          </div>
-        </div>
-        <div class="flex gap-5">
-          <p class="text-blue-500 font-bold">2021</p>
-          <div class="grid">
-            <p class="text-white">Backend Developer</p>
-            <p class="text-gray-300 opacity-70">PT Run 8, Depok - West Java</p>
-            <p class="text-gray-300 opacity-70">
-              Build api for mobile apps and web application admin form mobile
-              apps parking, for example, i build api for register account,
-              search location parking, and check parking fees using barcode on
-              ticket.
+              {{ item.description }}
             </p>
           </div>
         </div>
@@ -260,84 +60,18 @@
       <!-- project -->
       <p class="text-white font-bold sm:text-4xl pt-10">Experience Projects</p>
       <div class="grid md:grid-cols-2 gap-4">
-        <div class="flex gap-5">
+        <div v-for="item in experienceProject" class="flex gap-5">
           <p class="text-blue-500 font-bold">2022</p>
           <div class="grid">
-            <p class="text-white">Laravel</p>
-            <p class="text-gray-300 opacity-70">Booking - PT Nose Herbalindo</p>
+            <p class="text-white">{{ item.tech }}</p>
+            <p class="text-gray-300 opacity-70">{{ item.name }}</p>
             <p class="text-gray-300 opacity-70">
-              Build a web applications for Booking meeting rooms and bookings vehicle operational for PT Nose Herbalindo, <a class="text-blue-500 font-bold hover:text-blue-100" href="http://booking.nose.co.id/">Click me for look this websites.</a>.
-            </p>
-          </div>
-        </div>
-        <div class="flex gap-5">
-          <p class="text-blue-500 font-bold">2022</p>
-          <div class="grid">
-            <p class="text-white">Laravel</p>
-            <p class="text-gray-300 opacity-70">Recruitment - PT Nose Herbalindo</p>
-            <p class="text-gray-300 opacity-70">
-              Build a web applications for Recruitment for PT Nose Herbalindo, <a class="text-blue-500 font-bold hover:text-blue-100" href="https://recruitment.nose.co.id/office">Click me for look this websites.</a>.
-            </p>
-          </div>
-        </div>
-        <div class="flex gap-5">
-          <p class="text-blue-500 font-bold">2022</p>
-          <div class="grid">
-            <p class="text-white">Laravel</p>
-            <p class="text-gray-300 opacity-70">Point of sale - Cashier</p>
-            <p class="text-gray-300 opacity-70">
-              Build a web applications cashier for PT Nose Herbalindo for events outside the office (not publish).
-            </p>
-          </div>
-        </div>
-        <div class="flex gap-5">
-          <p class="text-blue-500 font-bold">2022</p>
-          <div class="grid">
-            <p class="text-white">Flutter</p>
-            <p class="text-gray-300 opacity-70">Point of sale - Cashier</p>
-            <p class="text-gray-300 opacity-70">
-              Build a mobile cashier application for PT Nose Herbalindo for events outside the office (not publish).
-            </p>
-          </div>
-        </div>
-        <div class="flex gap-5">
-          <p class="text-blue-500 font-bold">2022</p>
-          <div class="grid">
-            <p class="text-white">Laravel</p>
-            <p class="text-gray-300 opacity-70">Company Profile - House Boss</p>
-            <p class="text-gray-300 opacity-70">
-              Build web company profile use laravel and tailwind css, <a class="text-blue-500 font-bold hover:text-blue-100" href="https://kosbosshouse.com">Click me for look this websites.</a>.
-            </p>
-          </div>
-        </div>
-        <div class="flex gap-5">
-          <p class="text-blue-500 font-bold">2022</p>
-          <div class="grid">
-            <p class="text-white">Laravel</p>
-            <p class="text-gray-300 opacity-70">Codebooks</p>
-            <p class="text-gray-300 opacity-70">
-              Build web applications for buy books or buy course programming, <a class="text-blue-500 font-bold hover:text-blue-100" href="https://codebook.id">Click me for look this websites.</a>.
-            </p>
-          </div>
-        </div>
-        <div class="flex gap-5">
-          <p class="text-blue-500 font-bold">2021</p>
-          <div class="grid">
-            <p class="text-white">Flutter</p>
-            <p class="text-gray-300 opacity-70">Booking Parking</p>
-            <p class="text-gray-300 opacity-70">
-              Build mobile application for booking parking (not publish)
-            </p>
-          </div>
-        </div>
-        <div class="flex gap-5">
-          <p class="text-blue-500 font-bold">2020</p>
-          <div class="grid">
-            <p class="text-white">Codeigniter</p>
-            <p class="text-gray-300 opacity-70">Manajement Coffeshop</p>
-            <p class="text-gray-300 opacity-70">
-              Build web application for manajement coffeshop, there are several
-              features absensi, point of sale, payroll (not publish).
+              {{ item.description }}
+              <a
+                v-if="item.link != '(not publish)'"
+                target="_blank" class="text-blue-500 font-bold hover:text-blue-100"
+                :href="item.link"
+                >Click me for look.</a>
             </p>
           </div>
         </div>
@@ -347,7 +81,115 @@
 </template>
 
 <script>
+import ToolsComponent from "@/components/ToolsComponent.vue";
 export default {
   name: "Home",
+  components: { ToolsComponent },
+  data() {
+    return {
+      experiencesJob: [
+        {
+          title: "Senior Fullstack Developer",
+          company: "Allo Bank, South Jakarta",
+          description:
+            "Creating and implementing additional features for an already improved product.",
+          years: 2024,
+        },
+        {
+          title: "Backend Developer",
+          company: "Dipay, South Jakarta",
+          description:
+            "Creating and implementing additional features for an already improved product.",
+          years: 2023,
+        },
+        {
+          title: "Backend Developer",
+          company: "Wetalk, South Jakarta",
+          description:
+            "Build new chat bot or update existing bot for platform whatsapp, telegram, instagram, facebook messager, line.",
+          years: 2022,
+        },
+        {
+          title: "Laravel Developer",
+          company: "PT Nose Herbal Indo, North Jakarta",
+          description:
+            "Build new web application or update module on existing web application on erp company, for example, i build web application for booking meeting rooms and operational vehicle, and i build anti-fake system for checking original product or fake.",
+          years: 2021,
+        },
+        {
+          title: "Backend Developer",
+          company: "PT Run 8, Depok - West Java",
+          description:
+            "Build api for mobile apps and web application admin form mobile apps parking, for example, i build api for register account, search location parking, and check parking fees using barcode on ticket.",
+          years: 2021,
+        },
+      ],
+      experienceProject: [
+        {
+          tech: "VueJs + ExpressJS",
+          name: "Znaptix Chatbot Event",
+          description:
+            "Build a chatbot and backoffice for buy ticket events, on whatsapp",
+          link: "https://znaptix.com",
+          years: 2023,
+        },
+        {
+          tech: "Laravel",
+          name: "Booking - PT Nose Herbalindo",
+          description:
+            "Build a web applications for Booking meeting rooms and bookings vehicle operational for PT Nose Herbalindo.",
+          link: "https://booking.nose.co.id",
+          years: 2022,
+        },
+        {
+          tech: "Laravel",
+          name: "Recruitment - PT Nose Herbalindo",
+          description:
+            "Build a web applications for Recruitment for PT Nose Herbalindo",
+          link: "https://recruitment.nose.co.id/office",
+          years: 2022,
+        },
+        {
+          tech: "Laravel",
+          name: "Point of sale - Cashier",
+          description:
+            "Build a web applications cashier for PT Nose Herbalindo for events outside the office.",
+          link: "(not publish)",
+          years: 2022,
+        },
+        {
+          tech: "Flutter",
+          name: "Point of sale - Cashier",
+          description:
+            "Build a mobile cashier application for PT Nose Herbalindo for events outside the office.",
+          link: "(not publish)",
+          years: 2022,
+        },
+        {
+          tech: "Laravel",
+          name: "Codebooks",
+          description:
+            "Build web applications for buy books or buy course programming",
+          link: "https://codebook.id",
+          years: 2022,
+        },
+        {
+          tech: "Flutter",
+          name: "Booking Parking",
+          description: "Build mobile application for booking parking",
+          link: "(not publish)",
+          years: 2021,
+        },
+        {
+          tech: "Codeigniter",
+          name: "Manajement Coffeshop",
+          description:
+            "Build web application for manajement coffeshop, there are several features absensi, point of sale, payroll",
+          link: "(not publish)",
+          years: 2021,
+        },
+      ],
+    };
+  },
 };
 </script>

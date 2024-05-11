@@ -61,6 +61,7 @@
 <script>
 import Lightgallery from "lightgallery/vue";
 import lgZoom from "lightgallery/plugins/zoom";
+
 let lightGallery = null;
 export default {
   name: "App",
@@ -105,12 +106,20 @@ export default {
         id: "4",
         size: "1400-932",
         title: "Mobile Appllication Booking",
-        src: "https://drive.google.com/uc?id=1HKrjF19AltItkrT38AFFl6UTRH9r_nwR",
+        src: "https://drive.usercontent.google.com/download?id=1HKrjF19AltItkrT38AFFl6UTRH9r_nwR&export=view&authuser=0",
         thumb:
-          "https://drive.google.com/uc?id=1HKrjF19AltItkrT38AFFl6UTRH9r_nwR",
+          "https://drive.usercontent.google.com/download?id=1HKrjF19AltItkrT38AFFl6UTRH9r_nwR&export=view&authuser=0",
       },
     ],
   }),
+  methods: {
+    getImageFromGDrive: function () {
+      console.log("sini");
+    }
+  },
+  mounted() {
+    this.getImageFromGDrive()
+  }
 };
 </script>
 <style lang="css">
